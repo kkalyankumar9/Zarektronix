@@ -42,7 +42,7 @@ const VerifySignUp = () => {
   return (
     <div>
       <h2> Verify Signup </h2>
-      <h2> </h2>
+      
       <form
         action=""
         onSubmit={handleVerify}
