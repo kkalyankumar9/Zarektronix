@@ -4,7 +4,7 @@
 React, CSS, Node.js, Express.js and Mongo.DB
 
 BackEnd Deployed link : https://zarektronix-server.onrender.com
-FrontEnd Deployed link : https://zarektronix-server.onrender.com
+FrontEnd Deployed link : https://zarektronixtest.netlify.app/
 
 # Online SignUp
 ![image](https://github.com/kkalyankumar9/Zarektronix/assets/112814583/a92811e7-fd2c-45c6-8bbc-39f936795474)
